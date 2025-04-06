@@ -1,4 +1,4 @@
-customer name,customer e-mail,country,gender,age,annual Salary,credit card debt,net worth,car purchase amount
+name,email,country,gender,age,salary,debt,net_worth,purchase_amount
 Martina Avila,cubilia.Curae.Phasellus@quisaccumsanconvallis.edu,Bulgaria,0,41.8517198,62812.09301,11609.38091,238961.2505,35321.45877
 Harlan Barnes,eu.dolor@diam.co.uk,Belize,0,40.87062335,66646.89292,9572.957136,530973.9078,45115.52566
 Naomi Rodriquez,vulputate.mauris.sagittis@ametconsectetueradipiscing.co.uk,Algeria,1,43.15289747,53798.55112,11160.35506,638467.1773,42925.70921
